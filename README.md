@@ -80,6 +80,6 @@
 
 ---
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Robertomartin-7&show_icons=true&theme=tokyonight)
+![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Robertomartin-7&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertomartin-7&layout=compact&theme=tokyonight)
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Robertomartin-7&theme=react-dark)
