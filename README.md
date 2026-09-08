@@ -16,7 +16,47 @@
 
 ---
 
-### 📚 Asignaturas y Proyectos (2º Curso IA)
+### 🎓 Trayectoria Académica - Grado en IA (US)
+
+<details>
+<summary><b>✅ 1er Curso — Superado (60 ECTS)</b></summary>
+
+#### 1er Cuatrimestre
+- 📐 **Cálculo Infinitesimal y Numérico**
+- 🔢 **Matemática Discreta I**
+- ⚡ **Circuitos Electrónicos Digitales**
+- 💻 **Fundamentos de la Programación I**
+- 🏢 **Administración de Empresas**
+
+#### 2º Cuatrimestre
+- 🧮 **Álgebra Lineal y Numérica**
+- 🧲 **Fundamentos Físicos de la Informática**
+- 🖥️ **Estructura de Computadores**
+- 💻 **Fundamentos de la Programación II**
+- 📊 **Estadística**
+</details>
+
+<details open>
+<summary><b>⏳ 2º Curso — En progreso (60 ECTS)</b></summary>
+
+#### 1er Cuatrimestre (En Cursado)
+- 🌲 **Algoritmia y Estructuras de Datos I**
+- 🛠️ **Ingeniería del Software**
+- 🧩 **Matemática Discreta II**
+- 🧠 **Lógica Informática**
+- 🗄️ **Bases de Datos**
+
+#### 2º Cuatrimestre (Próximamente)
+- ⚡ **Algoritmia y Estructuras de Datos II**
+- 🏛️ **Arquitectura de Computadores**
+- 📈 **Estadística Avanzada**
+- 🌐 **Redes de Computadores**
+- 🤖 **Introducción a la Inteligencia Artificial**
+</details>
+
+---
+
+### 📚 Proyectos y Repositorios (2º Curso IA)
 
 - 📌 **Algoritmia y Estructuras de Datos**: Implementación de estructuras eficientes y resolución de problemas en C++.
 - 📂 **Fundamentos de Programación**: Colección unificada de prácticas de laboratorio de 1º curso.
@@ -28,6 +68,8 @@
 
 - **Correo institucional:** `robmarcar@alum.us.es`
 
+---
+
 ### 🧠 AI & Data Science Stack
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -36,7 +78,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" width="48%" />
