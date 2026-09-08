@@ -82,8 +82,6 @@
 
 ![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Robertomartin-7&theme=tokyonight)
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Robertomartin-7&theme=react-dark)
-
 ---
 
 ![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Robertomartin-7&theme=tokyonight&margin-w=15)
